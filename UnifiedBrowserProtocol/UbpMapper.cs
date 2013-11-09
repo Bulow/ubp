@@ -69,7 +69,7 @@ namespace Ubp
                 return returnUri;
             }
 
-            else if (secondaryUriMapper != default(UriMapperBase))
+            else if (secondaryUriMapper != null)
             {
                 //Map the uri with secondaryUriMapper, so the app can also handle other file types/protocols
                 return secondaryUriMapper.MapUri(uri);
