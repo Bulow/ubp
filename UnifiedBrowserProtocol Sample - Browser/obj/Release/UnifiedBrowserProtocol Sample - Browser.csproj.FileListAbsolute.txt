@@ -1,0 +1,19 @@
+C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol Sample - Browser\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol Sample - Browser\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol Sample - Browser\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol Sample - Browser\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol Sample - Browser\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol Sample - Browser\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol Sample - Browser\Bin\Release\UnifiedBrowserProtocol Sample - Browser.dll
+C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol Sample - Browser\Bin\Release\UnifiedBrowserProtocol Sample - Browser.pdb
+C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol Sample - Browser\Bin\Release\AppManifest.xaml
+C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol Sample - Browser\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol Sample - Browser\Bin\Release\UnifiedBrowserProtocol_Sample___Browser_Release_AnyCPU.xap
+C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol Sample - Browser\obj\Release\App.g.cs
+C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol Sample - Browser\obj\Release\MainPage.g.cs
+C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol Sample - Browser\obj\Release\UnifiedBrowserProtocol Sample - Browser.g.resources
+C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol Sample - Browser\obj\Release\UnifiedBrowserProtocol Sample - Browser.csproj.GenerateResource.Cache
+C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol Sample - Browser\obj\Release\UnifiedBrowserProtocol Sample - Browser.dll
+C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol Sample - Browser\obj\Release\UnifiedBrowserProtocol Sample - Browser.pdb
+C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol Sample - Browser\obj\Release\XapCacheFile.xml
+C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol Sample - Browser\obj\Release\UbpSample_Browser.Resources.AppResources.resources
