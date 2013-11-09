@@ -1,0 +1,15 @@
+﻿<xapCache source="C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UbpSample_Browser\Bin\Release\UbpSample_Browser_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="09-11-2013 21:28:06">
+  <file source="C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UbpSample_Browser\obj\Release\UbpSample_Browser.dll" archivePath="UbpSample_Browser.dll" lastWriteTime="09-11-2013 21:28:06" />
+  <file source="C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UbpSample_Browser\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="09-11-2013 20:58:19" />
+  <file source="C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UbpSample_Browser\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="09-11-2013 20:58:19" />
+  <file source="C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UbpSample_Browser\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="09-11-2013 20:58:19" />
+  <file source="C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UbpSample_Browser\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="09-11-2013 20:58:19" />
+  <file source="C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UbpSample_Browser\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="09-11-2013 20:58:19" />
+  <file source="C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UbpSample_Browser\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="09-11-2013 21:23:38" />
+  <file source="C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UbpSample_Browser\Bin\Release\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="09-11-2013 20:58:19" />
+  <file source="C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UbpSample_Browser\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="09-11-2013 20:58:19" />
+  <file source="C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol\Bin\Release\UnifiedBrowserProtocol.dll" archivePath="UnifiedBrowserProtocol.dll" lastWriteTime="09-11-2013 20:31:02" />
+  <file source="C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol\Readme - Normal App.txt" archivePath="Readme - Normal App.txt" lastWriteTime="09-11-2013 19:51:26" />
+  <file source="C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol\Readme - Browser.txt" archivePath="Readme - Browser.txt" lastWriteTime="09-11-2013 19:51:26" />
+  <file source="C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UbpSample_Browser\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="09-11-2013 21:23:39" />
+</xapCache>
