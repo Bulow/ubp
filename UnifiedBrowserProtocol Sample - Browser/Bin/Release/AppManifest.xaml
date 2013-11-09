@@ -1,5 +1,0 @@
-﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="UnifiedBrowserProtocol Sample - Browser" EntryPointType="UnifiedBrowserProtocol_Sample___Browser.App" RuntimeVersion="4.7.50308.0">
-  <Deployment.Parts>
-    <AssemblyPart x:Name="UnifiedBrowserProtocol Sample - Browser" Source="UnifiedBrowserProtocol Sample - Browser.dll" />
-  </Deployment.Parts>
-</Deployment>
