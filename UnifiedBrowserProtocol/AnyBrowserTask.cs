@@ -26,7 +26,16 @@ namespace Microsoft.Phone.Tasks
         #region Static
         public static async Task Show(string url)
         {
-            await Windows.System.Launcher.LaunchUriAsync(new Uri(Ubp.UbpMapper.PROTOCOL + ":" + url, UriKind.Absolute));
+            
+            bool result = await Windows.System.Launcher.LaunchUriAsync(new Uri(Ubp.UbpMapper.PROTOCOL + ":" + url, UriKind.Absolute));
+            if (!result)
+            {
+                WebBrowserTask t = new WebBrowserTask();
+                t.URL = url;
+                t.Show();
+            }
+
+            
         }
 
         #endregion

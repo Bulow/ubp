@@ -62,7 +62,7 @@ namespace Ubp
             if (encodedUriString.Contains(QUERY_KEY))
             {
                 //Isolate the url
-                string url = encodedUriString.Substring(encodedUriString.IndexOf(marker) + marker.Length);
+                string url = encodedUriString.Substring(encodedUriString.IndexOf(marker, StringComparison.InvariantCulture) + marker.Length);
                 if (url.Contains("&")) url = url.Substring(0, url.IndexOf("&") + 1);
 
                 Uri returnUri = new Uri(baseUri + HttpUtility.UrlDecode(url), UriKind.RelativeOrAbsolute);
