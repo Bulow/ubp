@@ -11,7 +11,7 @@ namespace Ubp
     /// <summary>
     /// UBP: Unified Browser Protocol
     /// 
-    /// Is a way for apps to open webpages in another "default" browser than internet explorer, by not telling the OS that this file is a webpage (http, https)
+    /// Is a way for apps to open webpages in another "default" browser than internet explorer, by not telling the OS that the URI is a webpage (http, https)
     /// </summary>
     public class UbpMapper : UriMapperBase
     {

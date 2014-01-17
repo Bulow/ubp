@@ -10,7 +10,7 @@ namespace Microsoft.Phone.Tasks
     {
         
         #region Dynamic
-        string Url { get; set; }
+        public string Url { get; set; }
 
         public AnyBrowserTask(string url)
         {
@@ -37,7 +37,6 @@ namespace Microsoft.Phone.Tasks
 
             
         }
-
         #endregion
     }
 }
