@@ -9,6 +9,7 @@ using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
 using UbpSample_NormalApp.Resources;
 using System.Threading.Tasks;
+using Microsoft.Phone.Tasks;
 
 namespace UbpSample_NormalApp
 {
