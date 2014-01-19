@@ -2,3 +2,7 @@ C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol\Bin
 C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol\Bin\Release\UnifiedBrowserProtocol.pdb
 C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol\obj\Release\UnifiedBrowserProtocol.dll
 C:\Users\Emil\Programming\Edge\UnifiedBrowserProtocol\UnifiedBrowserProtocol\obj\Release\UnifiedBrowserProtocol.pdb
+C:\Users\Emil\Programming\Temp\rfgeg\unified-browser-protocol\UnifiedBrowserProtocol\Bin\Release\UnifiedBrowserProtocol.dll
+C:\Users\Emil\Programming\Temp\rfgeg\unified-browser-protocol\UnifiedBrowserProtocol\Bin\Release\UnifiedBrowserProtocol.pdb
+C:\Users\Emil\Programming\Temp\rfgeg\unified-browser-protocol\UnifiedBrowserProtocol\obj\Release\UnifiedBrowserProtocol.dll
+C:\Users\Emil\Programming\Temp\rfgeg\unified-browser-protocol\UnifiedBrowserProtocol\obj\Release\UnifiedBrowserProtocol.pdb
